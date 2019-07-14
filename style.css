@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto 0 auto;
+    padding: 0;
+    width: 930px;
+    font-family: "Avenir";
+    position: relative;
+}
+
+.box {
+	border: 1px black;
+	border-radius: 10px;
+	width: 500px;
+	height: 500px;
+	padding-left: 20px;
+}
+
+.resizingRectangle {
+	cursor: nesw-resize;
+}
+
